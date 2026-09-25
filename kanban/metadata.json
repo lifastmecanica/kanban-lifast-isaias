@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban - Gestão de Tarefas",
+  "description": "Sistema de CRM com fluxo Kanban integrado ao Supabase para acompanhamento de tarefas e negócios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
